@@ -1,1 +1,1 @@
-# Brushing-Game
+# Python Assignment Brushing Game
